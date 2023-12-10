@@ -1,5 +1,6 @@
 # TicTacToe-JavaFx
 TicTacToe game made using JavaFx
+Check out the video here: https://youtu.be/B8ErIE4hqBQ
 
 ![image](https://github.com/OmDharme/TicTacToe-JavaFx/assets/85190369/2747f145-a5e5-4e10-b817-75ff95cfdaeb)
 
